@@ -2,8 +2,8 @@
 
 A minimal Streamlit app that predicts whether a credit applicant is **good** or **bad** risk, based on the [German Credit Risk dataset](https://www.kaggle.com/datasets/uciml/german-credit).
 
-**Live demo:** _add your Streamlit Cloud link here once deployed_
-
+**Live demo:**[ _add your Streamlit Cloud link here once deployed_
+](https://credit-risk-app-aqotsvu47t9e3224ndiuoc.streamlit.app/)
 ## How it works
 
 - `credit_risk_modeling.ipynb` — data analysis, feature engineering, and model training (Decision Tree, Random Forest, Extra Trees, XGBoost compared via `GridSearchCV`)
